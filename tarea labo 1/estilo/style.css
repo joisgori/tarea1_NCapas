@@ -1,0 +1,56 @@
+.contenedor{
+  background-color: #240b68;
+  display: flex;
+  border-radius: 15px;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.fas{
+  color: green;
+  font-size: 40px;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+  border-style: double;
+  border-color: black;
+}
+
+h3 {
+  color: green;
+  text-decoration: underline;
+}
+
+p{
+  text-align: justify;
+}
+
+.Intro {
+  padding: 15px;
+  margin: 15px;
+  text-align: justify;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: black;
+  color: black;
+  background-color: #ffb3b3;
+}
+
+div {
+  border-radius: 20px;
+  border-style: dotted;
+  border-color: #8c7373;
+  margin: 20px;
+  padding: 20px;
+}
+
+body{
+  background-color: #9f9f80;
+}
